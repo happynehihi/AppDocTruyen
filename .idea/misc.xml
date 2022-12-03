@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/drawable/ic_city.xml" value="0.1875" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/drawable/ic_compass_line.xml" value="0.1265" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/drawable/ic_spinning_sword.xml" value="0.1875" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/drawable/khampha_bg_line_cate.xml" value="0.1875" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/drawable/khampha_bg_searchvd.xml" value="0.1265" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/drawable/khampha_bgimg_radius.xml" value="0.1875" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/drawable/khampha_ic_book.xml" value="0.1875" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/drawable/khampha_ic_city.xml" value="0.1875" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/drawable/khampha_ic_codai.xml" value="0.1875" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/drawable/khampha_ic_digioi.xml" value="0.1875" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/drawable/khampha_ic_dongnhan.xml" value="0.1875" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/drawable/khampha_ic_game.xml" value="0.1875" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/drawable/khampha_ic_hethong.xml" value="0.1875" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/drawable/khampha_ic_linhdi.xml" value="0.1875" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/drawable/khampha_ic_thamtu.xml" value="0.1875" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/drawable/khampham_borderbottom.xml" value="0.1605" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/drawable/navigation_ic_home.xml" value="0.1265" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/drawable/navigation_ic_list.xml" value="0.121" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/drawable/navigation_ic_profile.xml" value="0.1265" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/drawable/navigation_ic_star.xml" value="0.1265" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/drawable/navigattion_ic_discover.xml" value="0.1265" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/drawable/profile_bgbutton.xml" value="0.1" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/drawable/readbook_bgdialog.xml" value="0.1675" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/drawable/readbook_btdialog.xml" value="0.1675" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/drawable/readbook_ic_descrease.xml" value="0.1675" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/drawable/readboox_ic_increase.xml" value="0.1675" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/layout/activity_chi_tiet_truyen.xml" value="0.25" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/layout/activity_danh_muc_truyen.xml" value="0.25" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/layout/activity_forgot_pass.xml" value="0.25" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/layout/activity_read_book.xml" value="0.25" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/layout/activity_reset_pass.xml" value="0.25" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/layout/activity_sign_in.xml" value="0.25" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/layout/activity_tim_kiem_truyen.xml" value="0.25" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/layout/fragment_1.xml" value="0.25" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/layout/fragment_2.xml" value="0.25" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/layout/fragment_3.xml" value="0.1" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/layout/fragment_4.xml" value="0.25" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/layout/fragment_chapter_list.xml" value="0.25" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/layout/fragment_fav_book.xml" value="0.10989583333333333" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/layout/fragment_fav_folder.xml" value="0.1787037037037037" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/layout/fragment_history_book.xml" value="0.25" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/layout/fragment_logout.xml" value="0.25" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/layout/fragment_mo_ta.xml" value="0.25" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/layout/fragment_profile.xml" value="0.10092592592592593" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/layout/item_favbook.xml" value="0.25" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/layout/item_favfolder.xml" value="0.1787037037037037" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/layout/item_history.xml" value="0.25" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/layout/itemtruyenngang.xml" value="0.24895833333333334" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/layout/line_decu.xml" value="0.25" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/layout/line_khampha.xml" value="0.25" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/layout/settingtextdialog.xml" value="0.25" />
+        <entry key="..\:/AndroidJava/AppDocTruyen-CuoiKi/app/src/main/res/menu/bottom_nav_menu.xml" value="0.20185185185185187" />
+        <entry key="..\:/AndroidJava/AppDocTruyen_CuoiKi/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/AndroidJava/AppDocTruyen_CuoiKi/app/src/main/res/drawable-v24/list_bordertop.xml" value="0.1675" />
+        <entry key="..\:/AndroidJava/AppDocTruyen_CuoiKi/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/AndroidJava/AppDocTruyen_CuoiKi/app/src/main/res/drawable/navigation_ic_home.xml" value="0.1675" />
+        <entry key="..\:/AndroidJava/AppDocTruyen_CuoiKi/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/AndroidJava/AppDocTruyen_CuoiKi/app/src/main/res/layout/activity_main.xml" value="0.10989583333333333" />
+        <entry key="..\:/AndroidJava/AppDocTruyen_CuoiKi/app/src/main/res/layout/fragment_1.xml" value="0.25" />
+        <entry key="..\:/AndroidJava/AppDocTruyen_CuoiKi/app/src/main/res/layout/fragment_2.xml" value="0.2359375" />
+        <entry key="..\:/AndroidJava/AppDocTruyen_CuoiKi/app/src/main/res/layout/fragment_3.xml" value="0.25" />
+        <entry key="..\:/AndroidJava/AppDocTruyen_CuoiKi/app/src/main/res/layout/fragment_4.xml" value="0.25" />
+        <entry key="..\:/AndroidJava/AppDocTruyen_CuoiKi/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25" />
+        <entry key="..\:/BackUp/AppDocTruyen-CuoiKi/app/src/main/res/drawable-v24/readbook_bg_menu.xml" value="0.1675" />
+        <entry key="..\:/BackUp/AppDocTruyen-CuoiKi/app/src/main/res/drawable-v24/readbook_borderbot.xml" value="0.1675" />
+        <entry key="..\:/BackUp/AppDocTruyen-CuoiKi/app/src/main/res/drawable-v24/readbook_ic_backl.xml" value="0.1675" />
+        <entry key="..\:/BackUp/AppDocTruyen-CuoiKi/app/src/main/res/drawable-v24/readbook_ic_bookmark.xml" value="0.1675" />
+        <entry key="..\:/BackUp/AppDocTruyen-CuoiKi/app/src/main/res/drawable-v24/readbook_ic_bookmark_yellow.xml" value="0.1675" />
+        <entry key="..\:/BackUp/AppDocTruyen-CuoiKi/app/src/main/res/drawable-v24/readbook_ic_settings.xml" value="0.1675" />
+        <entry key="..\:/BackUp/AppDocTruyen-CuoiKi/app/src/main/res/drawable-v24/readbook_ic_star.xml" value="0.1675" />
+        <entry key="..\:/BackUp/AppDocTruyen-CuoiKi/app/src/main/res/drawable-v24/readbook_ic_star_yellow.xml" value="0.1675" />
+        <entry key="..\:/BackUp/AppDocTruyen-CuoiKi/app/src/main/res/drawable/botron.xml" value="0.1675" />
+        <entry key="..\:/BackUp/AppDocTruyen-CuoiKi/app/src/main/res/drawable/list_bordertop.xml" value="0.1675" />
+        <entry key="..\:/BackUp/AppDocTruyen-CuoiKi/app/src/main/res/drawable/readbook_ic_backl.xml" value="0.1675" />
+        <entry key="..\:/BackUp/AppDocTruyen-CuoiKi/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/BackUp/AppDocTruyen-CuoiKi/app/src/main/res/layout/activity_read_content_book.xml" value="0.25" />
+        <entry key="..\:/BackUp/AppDocTruyen-CuoiKi/app/src/main/res/layout/activity_sign_in.xml" value="0.25" />
+        <entry key="..\:/BackUp/AppDocTruyen-CuoiKi/app/src/main/res/layout/fragment_4.xml" value="0.25" />
+        <entry key="..\:/JavaAndroid/AppDocTruyen-CuoiKi/app/src/main/res/layout/activity_chi_tiet_truyen.xml" value="0.264" />
+        <entry key="..\:/JavaAndroid/AppDocTruyen-CuoiKi/app/src/main/res/layout/activity_home.xml" value="0.259375" />
+        <entry key="..\:/JavaAndroid/AppDocTruyen-CuoiKi/app/src/main/res/layout/activity_read_book.xml" value="0.259375" />
+        <entry key="..\:/JavaAndroid/AppDocTruyen-CuoiKi/app/src/main/res/layout/fragment_1.xml" value="0.259375" />
+        <entry key="..\:/JavaAndroid/AppDocTruyen-CuoiKi/app/src/main/res/layout/fragment_2.xml" value="0.259375" />
+        <entry key="..\:/JavaAndroid/AppDocTruyen-CuoiKi/app/src/main/res/layout/fragment_3.xml" value="0.259375" />
+        <entry key="..\:/JavaAndroid/AppDocTruyen-CuoiKi/app/src/main/res/layout/fragment_4.xml" value="0.259375" />
+        <entry key="..\:/JavaAndroid/AppDocTruyen-CuoiKi/app/src/main/res/layout/fragment_chapter_list.xml" value="0.2453125" />
+        <entry key="..\:/JavaAndroid/AppDocTruyen-CuoiKi/app/src/main/res/layout/fragment_fav_book.xml" value="0.259375" />
+        <entry key="..\:/JavaAndroid/AppDocTruyen-CuoiKi/app/src/main/res/layout/fragment_fav_folder.xml" value="0.2453125" />
+        <entry key="..\:/JavaAndroid/AppDocTruyen-CuoiKi/app/src/main/res/layout/fragment_history_book.xml" value="0.19814814814814816" />
+        <entry key="..\:/JavaAndroid/AppDocTruyen-CuoiKi/app/src/main/res/layout/fragment_mo_ta.xml" value="0.259375" />
+        <entry key="..\:/JavaAndroid/AppDocTruyen-CuoiKi/app/src/main/res/layout/item_favbook.xml" value="0.25833333333333336" />
+        <entry key="..\:/JavaAndroid/AppDocTruyen-CuoiKi/app/src/main/res/layout/item_favfolder.xml" value="0.25833333333333336" />
+        <entry key="..\:/JavaAndroid/AppDocTruyen-CuoiKi/app/src/main/res/layout/item_history.xml" value="0.25833333333333336" />
+        <entry key="..\:/JavaAndroid/AppDocTruyen-CuoiKi/app/src/main/res/layout/line_decu.xml" value="0.259375" />
+        <entry key="..\:/JavaAndroid/AppDocTruyen-CuoiKi/app/src/main/res/layout/line_khampha.xml" value="0.259375" />
+        <entry key="..\:/hoc/HK5/Android/AppDTClone/AppDocTruyen-CuoiKi/app/src/main/res/drawable/home_bg_bt_tieptuc.xml" value="0.129" />
+        <entry key="..\:/hoc/HK5/Android/AppDTClone/AppDocTruyen-CuoiKi/app/src/main/res/drawable/home_bg_searchbook.xml" value="0.203" />
+        <entry key="..\:/hoc/HK5/Android/AppDTClone/AppDocTruyen-CuoiKi/app/src/main/res/drawable/khampha_background_line_cate.xml" value="0.203" />
+        <entry key="..\:/hoc/HK5/Android/AppDTClone/AppDocTruyen-CuoiKi/app/src/main/res/drawable/khampha_background_search.xml" value="0.203" />
+        <entry key="..\:/hoc/HK5/Android/AppDTClone/AppDocTruyen-CuoiKi/app/src/main/res/drawable/khampha_bg_searchvd.xml" value="0.203" />
+        <entry key="..\:/hoc/HK5/Android/AppDTClone/AppDocTruyen-CuoiKi/app/src/main/res/layout/activity_home.xml" value="0.1762917933130699" />
+        <entry key="..\:/hoc/HK5/Android/AppDTClone/AppDocTruyen-CuoiKi/app/src/main/res/layout/fragment_1.xml" value="0.35733695652173914" />
+        <entry key="..\:/hoc/HK5/Android/AppDTClone/AppDocTruyen-CuoiKi/app/src/main/res/layout/fragment_2.xml" value="0.35733695652173914" />
+        <entry key="..\:/hoc/HK5/Android/AppDTClone/AppDocTruyen-CuoiKi/app/src/main/res/layout/fragment_3.xml" value="0.35733695652173914" />
+        <entry key="..\:/hoc/HK5/Android/AppDTClone/AppDocTruyen-CuoiKi/app/src/main/res/layout/fragment_4.xml" value="0.35733695652173914" />
+        <entry key="..\:/hoc/HK5/Android/AppDTClone/AppDocTruyen-CuoiKi/app/src/main/res/layout/line_decu.xml" value="0.35733695652173914" />
+        <entry key="..\:/hoc/HK5/Android/AppDTClone/AppDocTruyen-CuoiKi/app/src/main/res/layout/line_khampha.xml" value="0.35733695652173914" />
+        <entry key="..\:/hoc/HK5/Android/clone3/AppDocTruyen-CuoiKi/app/src/main/res/drawable/fav_folder_bg_add.xml" value="0.203" />
+        <entry key="..\:/hoc/HK5/Android/clone3/AppDocTruyen-CuoiKi/app/src/main/res/layout/dialog_add_folder.xml" value="0.35733695652173914" />
+        <entry key="..\:/hoc/HK5/Android/clone3/AppDocTruyen-CuoiKi/app/src/main/res/layout/fragment_1.xml" value="0.35733695652173914" />
+        <entry key="..\:/hoc/HK5/Android/clone3/AppDocTruyen-CuoiKi/app/src/main/res/layout/fragment_fav_folder.xml" value="0.35733695652173914" />
+        <entry key="..\:/hoc/HK5/Android/clone3/AppDocTruyen-CuoiKi/app/src/main/res/layout/item_favfolder.xml" value="0.35733695652173914" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

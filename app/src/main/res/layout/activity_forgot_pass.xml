@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context=".ForgotPass">
+
+    <ImageView
+        android:id="@+id/forgotpassback"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginLeft="30dp"
+        android:src="@drawable/icon_back"></ImageView>
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="250dp"
+        android:layout_gravity="center"
+        android:src="@drawable/forgotpass_background">
+    </ImageView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Quên\nMật Khẩu?"
+            android:textColor="@color/black"
+            android:textSize="30dp"
+            android:layout_marginLeft="60dp"
+            android:fontFamily="@font/poppins_bold">
+
+        </TextView>
+
+    </LinearLayout>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/black"
+        android:textSize="15dp"
+        android:layout_marginLeft="60dp"
+        android:text="Đừng lo lắng! Vui lòng nhập địa chỉ được \nliên kết với tài khoản của bạn.">
+    </TextView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp">
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="60dp"
+            android:src="@drawable/signin_email">
+        </ImageView>
+
+        <EditText
+            android:layout_marginLeft="10dp"
+            android:id="@+id/txtemail"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:hint="Nhập EMAIL"
+            android:textColorHint="#6c798f"
+            android:minHeight="40dp"
+            android:textColor="#6c798f"
+            android:fontFamily="@font/poppins_light">
+        </EditText>
+    </LinearLayout>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_gravity="center"
+        android:id="@+id/btnsubmit"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/signin_botron"
+        android:text="Submit"
+        android:backgroundTint="#0065ff"
+        android:textColor="@color/white"
+        android:fontFamily="@font/poppins_bold"/>
+
+</androidx.appcompat.widget.LinearLayoutCompat>
